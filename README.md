@@ -92,7 +92,8 @@ Each financial metric contains:
 | CapexRatio (CR)      | Capital expenditure ratio      | ≥ 1                           |
 | ICR (Interest Coverage Ratio) | Interest coverage ratio     | > 5x                          |
 
-_* Note: For GrossMargin and EBIT, rule indicates positive value expected (greater than zero)._
+_* Note: Since there is no single universal standard, basic criteria are applied where values are generally expected to be positive._
+
 
 These rules are used to evaluate each financial metric's status, where typically:
 
@@ -102,7 +103,7 @@ These rules are used to evaluate each financial metric's status, where typically
 
 ### Sample JSON Response
 
-```json
+```bash
 {'cik': '0000320193',
  'tic': 'AAPL',
  'company': 'Apple Inc.',
