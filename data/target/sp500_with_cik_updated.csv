@@ -1,0 +1,268 @@
+tic,cik,name,sector,industry,exchange
+A,0001090872,"Agilent Technologies, Inc.",Healthcare,Diagnostics & Research,NYSE
+AAPL,0000320193,Apple Inc.,Technology,Consumer Electronics,NASDAQ
+ABBV,0001551152,AbbVie Inc.,Healthcare,Drug Manufacturers - General,NYSE
+ABNB,0001559720,"Airbnb, Inc.",Consumer Cyclical,Travel Services,NASDAQ
+ABT,0000001800,Abbott Laboratories,Healthcare,Medical Devices,NYSE
+ACN,0001467373,Accenture PLC,Technology,Information Technology Services,NYSE
+ADBE,0000796343,Adobe Inc.,Technology,Software - Application,NASDAQ
+ADI,0000006281,"Analog Devices, Inc.",Technology,Semiconductors,NASDAQ
+ADM,0000007084,Archer-Daniels-Midland Company,Consumer Defensive,Farm Products,NYSE
+ADP,0000008670,"Automatic Data Processing, Inc.",Technology,Software - Application,NASDAQ
+ADSK,0000769397,"Autodesk, Inc.",Technology,Software - Application,NASDAQ
+AKAM,0001086222,"Akamai Technologies, Inc.",Technology,Software - Infrastructure,NASDAQ
+ALB,0000915913,Albemarle Corporation,Basic Materials,Specialty Chemicals,NYSE
+ALGN,0001097149,"Align Technology, Inc.",Healthcare,Medical Instruments & Supplies,NASDAQ
+ALLE,0001579241,Allegion plc,Industrials,Security & Protection Services,NYSE
+AMAT,0000006951,"Applied Materials, Inc.",Technology,Semiconductor Equipment & Materials,NASDAQ
+AMD,0000002488,"Advanced Micro Devices, Inc.",Technology,Semiconductors,NASDAQ
+AME,0001037868,"AMETEK, Inc.",Industrials,Specialty Industrial Machinery,NYSE
+AMZN,0001018724,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,NASDAQ
+APA,0001841666,APA Corporation,Energy,Oil & Gas E&P,NASDAQ
+APH,0000820313,Amphenol Corporation,Technology,Electronic Components,NYSE
+AVGO,0001730168,Broadcom Inc.,Technology,Semiconductors,NASDAQ
+AVY,0000008818,Avery Dennison Corporation,Consumer Cyclical,Packaging & Containers,NYSE
+BA,0000012927,Boeing Company (The),Industrials,Aerospace & Defense,NYSE
+BAX,0000010456,Baxter International Inc.,Healthcare,Medical Instruments & Supplies,NYSE
+BDX,0000010795,"Becton, Dickinson and Company",Healthcare,Medical Instruments & Supplies,NYSE
+BG,0001996862,Bunge Ltd,Consumer Defensive,Farm Products,NYSE
+BKNG,0001075531,Booking Holdings Inc.,Consumer Cyclical,Travel Services,NASDAQ
+BKR,0001701605,Baker Hughes Company,Energy,Oil & Gas Equipment & Services,NASDAQ
+BMY,0000014272,Bristol-Myers Squibb Company,Healthcare,Drug Manufacturers - General,NYSE
+BSX,0000885725,Boston Scientific Corporation,Healthcare,Medical Devices,NYSE
+CAG,0000023217,"ConAgra Brands, Inc.",Consumer Defensive,Packaged Foods,NYSE
+CAH,0000721371,"Cardinal Health, Inc.",Healthcare,Medical Distribution,NYSE
+CARR,0001783180,Carrier Global Corporation,Industrials,Building Products & Equipment,NYSE
+CAT,0000018230,"Caterpillar, Inc.",Industrials,Farm & Heavy Construction Machinery,NYSE
+CDW,0001402057,CDW Corporation,Technology,Information Technology Services,NASDAQ
+CHRW,0001043277,"C.H. Robinson Worldwide, Inc.",Industrials,Integrated Freight & Logistics,NASDAQ
+CHTR,0001091667,"Charter Communications, Inc.",Communication Services,Telecom Services,NASDAQ
+CI,0001739940,The Cigna Group,Healthcare,Healthcare Plans,NYSE
+CL,0000021665,Colgate-Palmolive Company,Consumer Defensive,Household & Personal Products,NYSE
+CMCSA,0001166691,Comcast Corporation,Communication Services,Telecom Services,NASDAQ
+CMG,0001058090,"Chipotle Mexican Grill, Inc.",Consumer Cyclical,Restaurants,NYSE
+CNC,0001071739,Centene Corporation,Healthcare,Healthcare Plans,NYSE
+COO,0000711404,"The Cooper Companies, Inc. ",Healthcare,Medical Instruments & Supplies,NASDAQ
+COP,0001163165,ConocoPhillips,Energy,Oil & Gas E&P,NYSE
+COST,0000909832,Costco Wholesale Corporation,Consumer Defensive,Discount Stores,NASDAQ
+CPAY,0001175454,"Corpay, Inc.",Technology,Software - Infrastructure,NYSE
+CPB,0000016732,Campbell Soup Company,Consumer Defensive,Packaged Foods,NYSE
+CRL,0001100682,"Charles River Laboratories International, Inc.",Healthcare,Diagnostics & Research,NYSE
+CRM,0001108524,"Salesforce, Inc.",Technology,Software - Application,NYSE
+CRWD,0001535527,"CrowdStrike Holdings, Inc.",Technology,Software - Infrastructure,NASDAQ
+CSCO,0000858877,"Cisco Systems, Inc.",Technology,Communication Equipment,NASDAQ
+CSX,0000277948,CSX Corporation,Industrials,Railroads,NASDAQ
+CTAS,0000723254,Cintas Corporation,Industrials,Specialty Business Services,NASDAQ
+CTSH,0001058290,Cognizant Technology Solutions Corporation,Technology,Information Technology Services,NASDAQ
+CTVA,0001755672,"Corteva, Inc.",Basic Materials,Agricultural Inputs,NYSE
+CVS,0000064803,CVS Health Corporation,Healthcare,Healthcare Plans,NYSE
+CZR,0001590895,"Caesars Entertainment, Inc.",Consumer Cyclical,Resorts & Casinos,NASDAQ
+DAL,0000027904,"Delta Air Lines, Inc.",Industrials,Airlines,NYSE
+DASH,0001792789,"DoorDash, Inc.",Consumer Cyclical,Internet Retail,NASDAQ
+DD,0001666700,"DuPont de Nemours, Inc.",Basic Materials,Specialty Chemicals,NYSE
+DECK,0000910521,Deckers Outdoor Corporation,Consumer Cyclical,Footwear & Accessories,NYSE
+DELL,0001571996,Dell Technologies Inc.,Technology,Computer Hardware,NYSE
+DGX,0001022079,Quest Diagnostics Incorporated,Healthcare,Diagnostics & Research,NYSE
+DHI,0000882184,"D.R. Horton, Inc.",Consumer Cyclical,Residential Construction,NYSE
+DHR,0000313616,Danaher Corporation,Healthcare,Diagnostics & Research,NYSE
+DIS,0001744489,Walt Disney Company (The),Communication Services,Entertainment,NYSE
+DLTR,0000935703,"Dollar Tree, Inc.",Consumer Defensive,Discount Stores,NASDAQ
+DOV,0000029905,Dover Corporation,Industrials,Specialty Industrial Machinery,NYSE
+DPZ,0001286681,Domino's Pizza Inc,Consumer Cyclical,Restaurants,NYSE
+DVA,0000927066,DaVita Inc.,Healthcare,Medical Care Facilities,NYSE
+DVN,0001090012,Devon Energy Corporation,Energy,Oil & Gas E&P,NYSE
+DXCM,0001093557,"DexCom, Inc.",Healthcare,Medical Devices,NASDAQ
+EA,0000712515,Electronic Arts Inc.,Communication Services,Electronic Gaming & Multimedia,NASDAQ
+EBAY,0001065088,eBay Inc.,Consumer Cyclical,Internet Retail,NASDAQ
+EFX,0000033185,"Equifax, Inc.",Industrials,Consulting Services,NYSE
+EL,0001001250,"Estee Lauder Companies, Inc. (The)",Consumer Defensive,Household & Personal Products,NYSE
+EMN,0000915389,Eastman Chemical Company,Basic Materials,Specialty Chemicals,NYSE
+ENPH,0001463101,"Enphase Energy, Inc.",Technology,Solar,NASDAQ
+EOG,0000821189,"EOG Resources, Inc.",Energy,Oil & Gas E&P,NYSE
+EPAM,0001352010,"EPAM Systems, Inc.",Technology,Information Technology Services,NYSE
+EQT,0000033213,EQT Corporation,Energy,Oil & Gas E&P,NYSE
+ETN,0001551182,Eaton Corp PLC,Industrials,Specialty Industrial Machinery,NYSE
+EW,0001099800,Edwards Lifesciences Corporation,Healthcare,Medical Devices,NYSE
+EXPE,0001324424,"Expedia Group, Inc.",Consumer Cyclical,Travel Services,NASDAQ
+F,0000037996,Ford Motor Company,Consumer Cyclical,Auto Manufacturers,NYSE
+FANG,0001539838,"Diamondback Energy, Inc.",Energy,Oil & Gas E&P,NASDAQ
+FAST,0000815556,Fastenal Company,Industrials,Industrial Distribution,NASDAQ
+FDX,0001048911,FedEx Corporation,Industrials,Integrated Freight & Logistics,NYSE
+FFIV,0001048695,"F5, Inc.",Technology,Software - Infrastructure,NASDAQ
+FI,0000798354,"Fiserv, Inc.",Technology,Information Technology Services,NYSE
+FICO,0000814547,Fair Isaac Corporation,Technology,Software - Application,NYSE
+FOXA,0001754301,Fox Corporation,Communication Services,Entertainment,NASDAQ
+FTNT,0001262039,"Fortinet, Inc.",Technology,Software - Infrastructure,NASDAQ
+FTV,0001659166,Fortive Corporation,Technology,Scientific & Technical Instruments,NYSE
+GD,0000040533,General Dynamics Corporation,Industrials,Aerospace & Defense,NYSE
+GE,0000040545,GE HealthCare Technologies Inc.,Healthcare,Health Information Services,NASDAQ
+GIS,0000040704,"General Mills, Inc.",Consumer Defensive,Packaged Foods,NYSE
+GLW,0000024741,Corning Incorporated,Technology,Electronic Components,NYSE
+GM,0001467858,General Motors Company,Consumer Cyclical,Auto Manufacturers,NYSE
+GNRC,0001474735,Generac Holdlings Inc.,Industrials,Specialty Industrial Machinery,NYSE
+GOOG,0001652044,Alphabet Inc.,Communication Services,Internet Content & Information,NASDAQ
+GPC,0000040987,Genuine Parts Company,Consumer Cyclical,Auto Parts,NYSE
+GPN,0001123360,Global Payments Inc.,Industrials,Specialty Business Services,NYSE
+GRMN,0001121788,Garmin Ltd.,Technology,Scientific & Technical Instruments,NYSE
+HAL,0000045012,Halliburton Company,Energy,Oil & Gas Equipment & Services,NYSE
+HAS,0000046080,"Hasbro, Inc.",Consumer Cyclical,Leisure,NASDAQ
+HCA,0000860730,"HCA Healthcare, Inc.",Healthcare,Medical Care Facilities,NYSE
+HD,0000354950,"Home Depot, Inc. (The)",Consumer Cyclical,Home Improvement Retail,NYSE
+HII,0001501585,"Huntington Ingalls Industries, Inc.",Industrials,Aerospace & Defense,NYSE
+HLT,0001585689,Hilton Worldwide Holdings Inc.,Consumer Cyclical,Lodging,NYSE
+HOLX,0000859737,"Hologic, Inc.",Healthcare,Medical Instruments & Supplies,NASDAQ
+HON,0000773840,Honeywell International Inc.,Industrials,Conglomerates,NASDAQ
+HPQ,0000047217,HP Inc.,Technology,Computer Hardware,NYSE
+HRL,0000048465,Hormel Foods Corporation,Consumer Defensive,Packaged Foods,NYSE
+HSY,0000047111,The Hershey Company,Consumer Defensive,Confectioners,NYSE
+HUBB,0000048898,Hubbell Inc,Industrials,Electrical Equipment & Parts,NYSE
+HUM,0000049071,Humana Inc.,Healthcare,Healthcare Plans,NYSE
+HWM,0000004281,Howmet Aerospace Inc.,Industrials,Aerospace & Defense,NYSE
+IBM,0000051143,International Business Machines Corporation,Technology,Information Technology Services,NYSE
+IDXX,0000874716,"IDEXX Laboratories, Inc.",Healthcare,Diagnostics & Research,NASDAQ
+IEX,0000832101,IDEX Corporation,Industrials,Specialty Industrial Machinery,NYSE
+INTC,0000050863,Intel Corporation,Technology,Semiconductors,NASDAQ
+INTU,0000896878,Intuit Inc.,Technology,Software - Application,NASDAQ
+IP,0000051434,International Paper Company,Consumer Cyclical,Packaging & Containers,NYSE
+IQV,0001478242,"IQVIA Holdings, Inc.",Healthcare,Diagnostics & Research,NYSE
+IR,0001699150,Ingersoll Rand Inc.,Industrials,Specialty Industrial Machinery,NYSE
+ISRG,0001035267,"Intuitive Surgical, Inc.",Healthcare,Medical Instruments & Supplies,NASDAQ
+IT,0000749251,"Gartner, Inc.",Technology,Information Technology Services,NYSE
+ITW,0000049826,Illinois Tool Works Inc.,Industrials,Specialty Industrial Machinery,NYSE
+J,0000052988,Jacobs Solutions Inc.,Industrials,Engineering & Construction,NYSE
+JBHT,0000728535,"J.B. Hunt Transport Services, Inc.",Industrials,Integrated Freight & Logistics,NASDAQ
+JCI,0000833444,Johnson Controls International plc,Industrials,Building Products & Equipment,NYSE
+JNJ,0000200406,Johnson & Johnson,Healthcare,Drug Manufacturers - General,NYSE
+K,0000055067,Kellanova,Consumer Defensive,Packaged Foods,NYSE
+KDP,0001418135,Keurig Dr Pepper Inc.,Consumer Defensive,Beverages - Non-Alcoholic,NASDAQ
+KEYS,0001601046,Keysight Technologies Inc.,Technology,Scientific & Technical Instruments,NYSE
+KHC,0001637459,The Kraft Heinz Company,Consumer Defensive,Packaged Foods,NASDAQ
+KMB,0000055785,Kimberly-Clark Corporation,Consumer Defensive,Household & Personal Products,NYSE
+KMI,0001506307,"Kinder Morgan, Inc.",Energy,Oil & Gas Midstream,NYSE
+KR,0000056873,The Kroger Co.,Consumer Defensive,Grocery Stores,NYSE
+LDOS,0001336920,"Leidos Holdings, Inc.",Technology,Information Technology Services,NYSE
+LEN,0000920760,Lennar Corporation,Consumer Cyclical,Residential Construction,NYSE
+LH,0000920148,Labcorp Holdings Inc.,Healthcare,Diagnostics & Research,NYSE
+LHX,0000202058,"L3Harris Technologies, Inc.",Industrials,Aerospace & Defense,NYSE
+LII,0001069202,"Lennox International, Inc.",Industrials,Building Products & Equipment,NYSE
+LIN,0001707925,Linde plc,Basic Materials,Specialty Chemicals,NYSE
+LKQ,0001065696,LKQ Corporation,Consumer Cyclical,Auto Parts,NASDAQ
+LLY,0000059478,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,NYSE
+LMT,0000936468,Lockheed Martin Corporation,Industrials,Aerospace & Defense,NYSE
+LOW,0000060667,"Lowe's Companies, Inc.",Consumer Cyclical,Home Improvement Retail,NYSE
+LULU,0001397187,lululemon athletica inc.,Consumer Cyclical,Apparel Retail,NASDAQ
+LVS,0001300514,Las Vegas Sands Corp.,Consumer Cyclical,Resorts & Casinos,NYSE
+LW,0001679273,"Lamb Weston Holdings, Inc.",Consumer Defensive,Packaged Foods,NYSE
+MAR,0001048286,Marriott International,Consumer Cyclical,Lodging,NASDAQ
+MAS,0000062996,Masco Corporation,Industrials,Building Products & Equipment,NYSE
+MCD,0000063908,McDonald's Corporation,Consumer Cyclical,Restaurants,NYSE
+MCK,0000927653,McKesson Corporation,Healthcare,Medical Distribution,NYSE
+MDLZ,0001103982,"Mondelez International, Inc.",Consumer Defensive,Confectioners,NASDAQ
+MDT,0001613103,Medtronic plc,Healthcare,Medical Devices,NYSE
+META,0001326801,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,NASDAQ
+MGM,0000789570,MGM Resorts International,Consumer Cyclical,Resorts & Casinos,NYSE
+MHK,0000851968,"Mohawk Industries, Inc.",Consumer Cyclical,"Furnishings, Fixtures & Appliances",NYSE
+MKC,0000063754,"McCormick & Company, Incorporated",Consumer Defensive,Packaged Foods,NYSE
+MLM,0000916076,"Martin Marietta Materials, Inc.",Basic Materials,Building Materials,NYSE
+MMM,0000066740,3M Company,Industrials,Conglomerates,NYSE
+MNST,0000865752,Monster Beverage Corporation,Consumer Defensive,Beverages - Non-Alcoholic,NASDAQ
+MO,0000764180,"Altria Group, Inc.",Consumer Defensive,Tobacco,NYSE
+MPC,0001510295,Marathon Petroleum Corporation,Energy,Oil & Gas Refining & Marketing,NYSE
+MRK,0000310158,"Merck & Co., Inc.",Healthcare,Drug Manufacturers - General,NYSE
+MSFT,0000789019,Microsoft Corporation,Technology,Software - Infrastructure,NASDAQ
+MSI,0000068505,"Motorola Solutions, Inc.",Technology,Communication Equipment,NYSE
+MTCH,0000891103,"Match Group, Inc.",Communication Services,Internet Content & Information,NASDAQ
+MU,0000723125,"Micron Technology, Inc.",Technology,Semiconductors,NASDAQ
+NCLH,0001513761,Norwegian Cruise Line Holdings Ltd.,Consumer Cyclical,Travel Services,NYSE
+NDSN,0000072331,Nordson Corporation,Industrials,Specialty Industrial Machinery,NASDAQ
+NEM,0001164727,Newmont Corporation,Basic Materials,Gold,NYSE
+NFLX,0001065280,"Netflix, Inc.",Communication Services,Entertainment,NASDAQ
+NOW,0001373715,"ServiceNow, Inc.",Technology,Software - Application,NYSE
+NUE,0000073309,Nucor Corporation,Basic Materials,Steel,NYSE
+NVDA,0001045810,NVIDIA Corporation,Technology,Semiconductors,NASDAQ
+NXPI,0001413447,NXP Semiconductors N.V.,Technology,Semiconductors,NASDAQ
+ODFL,0000878927,"Old Dominion Freight Line, Inc.",Industrials,Trucking,NASDAQ
+OMC,0000029989,Omnicom Group Inc.,Communication Services,Advertising Agencies,NYSE
+ON,0001097864,ON Semiconductor Corporation,Technology,Semiconductors,NASDAQ
+ORLY,0000898173,"O'Reilly Automotive, Inc.",Consumer Cyclical,Auto Parts,NASDAQ
+OTIS,0001781335,Otis Worldwide Corporation,Industrials,Specialty Industrial Machinery,NYSE
+OXY,0000797468,Occidental Petroleum Corporation,Energy,Oil & Gas E&P,NYSE
+PANW,0001327567,"Palo Alto Networks, Inc.",Technology,Software - Infrastructure,NASDAQ
+PARA,0000813828,Paramount Global,Communication Services,Entertainment,NASDAQ
+PAYC,0001590955,"Paycom Software, Inc.",Technology,Software - Application,NYSE
+PAYX,0000723531,"Paychex, Inc.",Technology,Software - Application,NASDAQ
+PEP,0000077476,"PepsiCo, Inc.",Consumer Defensive,Beverages - Non-Alcoholic,NASDAQ
+PFE,0000078003,"Pfizer, Inc.",Healthcare,Drug Manufacturers - General,NYSE
+PG,0000080424,Procter & Gamble Company (The),Consumer Defensive,Household & Personal Products,NYSE
+PH,0000076334,Parker-Hannifin Corporation,Industrials,Specialty Industrial Machinery,NYSE
+PHM,0000822416,"PulteGroup, Inc.",Consumer Cyclical,Residential Construction,NYSE
+PKG,0000075677,Packaging Corporation of America,Consumer Cyclical,Packaging & Containers,NYSE
+PLTR,0001321655,Palantir Technologies Inc.,Technology,Software - Infrastructure,NASDAQ
+PM,0001413329,Philip Morris International Inc,Consumer Defensive,Tobacco,NYSE
+PNR,0000077360,Pentair PLC,Industrials,Specialty Industrial Machinery,NYSE
+PPG,0000079879,"PPG Industries, Inc.",Basic Materials,Specialty Chemicals,NYSE
+PSX,0001534701,Phillips 66,Energy,Oil & Gas Refining & Marketing,NYSE
+QCOM,0000804328,QUALCOMM Incorporated,Technology,Semiconductors,NASDAQ
+REGN,0000872589,"Regeneron Pharmaceuticals, Inc.",Healthcare,Biotechnology,NASDAQ
+RL,0001037038,Ralph Lauren Corporation,Consumer Cyclical,Apparel Manufacturing,NYSE
+RMD,0000943819,ResMed Inc.,Healthcare,Medical Instruments & Supplies,NYSE
+ROK,0001024478,"Rockwell Automation, Inc.",Industrials,Specialty Industrial Machinery,NYSE
+ROL,0000084839,"Rollins, Inc.",Consumer Cyclical,Personal Services,NYSE
+ROST,0000745732,"Ross Stores, Inc.",Consumer Cyclical,Apparel Retail,NASDAQ
+RTX,0000101829,RTX Corporation,Industrials,Aerospace & Defense,NYSE
+SBUX,0000829224,Starbucks Corporation,Consumer Cyclical,Restaurants,NASDAQ
+SHW,0000089800,Sherwin-Williams Company (The),Basic Materials,Specialty Chemicals,NYSE
+SLB,0000087347,Schlumberger N.V.,Energy,Oil & Gas Equipment & Services,NYSE
+SMCI,0001375365,"Super Micro Computer, Inc.",Technology,Computer Hardware,NASDAQ
+SNA,0000091440,Snap-On Incorporated,Industrials,Tools & Accessories,NYSE
+SNPS,0000883241,"Synopsys, Inc.",Technology,Software - Infrastructure,NASDAQ
+STLD,0001022671,"Steel Dynamics, Inc.",Basic Materials,Steel,NASDAQ
+STX,0001137789,Seagate Technology Holdings PLC,Technology,Computer Hardware,NASDAQ
+STZ,0000016918,"Constellation Brands, Inc.",Consumer Defensive,Beverages - Brewers,NYSE
+SWK,0000093556,"Stanley Black & Decker, Inc.",Industrials,Tools & Accessories,NYSE
+SYK,0000310764,Stryker Corporation,Healthcare,Medical Devices,NYSE
+SYY,0000096021,Sysco Corporation,Consumer Defensive,Food Distribution,NYSE
+T,0000732717,AT&T Inc.,Communication Services,Telecom Services,NYSE
+TAP,0000024545,Molson Coors Beverage Company,Consumer Defensive,Beverages - Brewers,NYSE
+TDG,0001260221,Transdigm Group Incorporated,Industrials,Aerospace & Defense,NYSE
+TDY,0001094285,Teledyne Technologies Incorporated,Technology,Scientific & Technical Instruments,NYSE
+TECH,0000842023,Bio-Techne Corp,Healthcare,Biotechnology,NASDAQ
+TEL,0001385157,TE Connectivity Ltd,Technology,Electronic Components,NYSE
+TER,0000097210,"Teradyne, Inc.",Technology,Semiconductor Equipment & Materials,NASDAQ
+TJX,0000109198,"TJX Companies, Inc. (The)",Consumer Cyclical,Apparel Retail,NYSE
+TMO,0000097745,Thermo Fisher Scientific Inc,Healthcare,Diagnostics & Research,NYSE
+TPL,0001811074,Texas Pacific Land Corporation,Energy,Oil & Gas E&P,NYSE
+TRGP,0001389170,"Targa Resources, Inc.",Energy,Oil & Gas Midstream,NYSE
+TRMB,0000864749,Trimble Inc.,Technology,Scientific & Technical Instruments,NASDAQ
+TSLA,0001318605,"Tesla, Inc. ",Consumer Cyclical,Auto Manufacturers,NASDAQ
+TSN,0000100493,"Tyson Foods, Inc.",Consumer Defensive,Farm Products,NYSE
+TT,0001466258,Trane Technologies plc,Industrials,Building Products & Equipment,NYSE
+TTD,0001671933,"The Trade Desk, Inc.",Technology,Software - Application,NASDAQ
+TTWO,0000946581,"Take-Two Interactive Software, Inc.",Communication Services,Electronic Gaming & Multimedia,NASDAQ
+TXN,0000097476,Texas Instruments Incorporated,Technology,Semiconductors,NASDAQ
+TYL,0000860731,"Tyler Technologies, Inc.",Technology,Software - Application,NYSE
+UAL,0000100517,"United Airlines Holdings, Inc.",Industrials,Airlines,NASDAQ
+UBER,0001543151,"Uber Technologies, Inc.",Technology,Software - Application,NYSE
+UHS,0000352915,"Universal Health Services, Inc.",Healthcare,Medical Care Facilities,NYSE
+ULTA,0001403568,"Ulta Beauty, Inc.",Consumer Cyclical,Specialty Retail,NASDAQ
+UNH,0000731766,UnitedHealth Group Incorporated,Healthcare,Healthcare Plans,NYSE
+UNP,0000100885,Union Pacific Corporation,Industrials,Railroads,NYSE
+UPS,0001090727,"United Parcel Service, Inc.",Industrials,Integrated Freight & Logistics,NYSE
+URI,0001067701,"United Rentals, Inc.",Industrials,Rental & Leasing Services,NYSE
+VLO,0001035002,Valero Energy Corporation,Energy,Oil & Gas Refining & Marketing,NYSE
+VRSK,0001442145,"Verisk Analytics, Inc.",Industrials,Consulting Services,NASDAQ
+VRSN,0001014473,"VeriSign, Inc.",Technology,Software - Infrastructure,NASDAQ
+VRTX,0000875320,Vertex Pharmaceuticals Incorporated,Healthcare,Biotechnology,NASDAQ
+VZ,0000732712,Verizon Communications Inc.,Communication Services,Telecom Services,NYSE
+WAB,0000943452,Westinghouse Air Brake Technologies Corporation,Industrials,Railroads,NYSE
+WBA,0001618921,"Walgreens Boots Alliance, Inc.",Healthcare,Pharmaceutical Retailers,NASDAQ
+WM,0000823768,"Waste Management, Inc.",Industrials,Waste Management,NYSE
+WMB,0000107263,"Williams Companies, Inc. (The)",Energy,Oil & Gas Midstream,NYSE
+WMT,0000104169,Walmart Inc.,Consumer Defensive,Discount Stores,NYSE
+WSM,0000719955,"Williams-Sonoma, Inc. Common Stock (DE)",Consumer Cyclical,Specialty Retail,NYSE
+WYNN,0001174922,"Wynn Resorts, Limited",Consumer Cyclical,Resorts & Casinos,NASDAQ
+XOM,0000034088,Exxon Mobil Corporation,Energy,Oil & Gas Integrated,NYSE
+XYL,0001524472,Xylem Inc.,Industrials,Specialty Industrial Machinery,NYSE
+YUM,0001041061,"Yum! Brands, Inc.",Consumer Cyclical,Restaurants,NYSE
+ZBRA,0000877212,Zebra Technologies Corporation,Technology,Communication Equipment,NASDAQ
+ZTS,0001555280,Zoetis Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,NYSE
