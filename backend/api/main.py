@@ -4,7 +4,7 @@ sys.path.insert(0,"./backend")
 from fastapi import FastAPI, Query
 import requests
 import pandas as pd
-from utils.depend_utuls import find_accessionNumber_targer
+from utils.depend_utuls import find_accessionNumber_targer,find_company_cik
 from utils.financial_statement_utils import get_financial_statement
 
 quarters_list = ['Q1', 'Q2', 'Q3', 'FY']
@@ -14,11 +14,13 @@ app = FastAPI()
 
 @app.get("/get_sec_data")
 def get_sec_data(
-    cik: str = Query(..., description="320193"),
-    year: int = Query(..., description=2021),
-    quarter: str = Query(..., description=quarters_list)
+    ticker: str = Query(..., description="e.g. AAPL"),
+    year: int = Query(..., description="e.g. 2021"),
+    quarter: str = Query(..., description="e.g. Q1 or Q2 or Q3 or FY")
 ):
-    cik = str(cik).zfill(10)  # Ensure CIK is 10 digits by zero-padding
+    cik = find_company_cik(ticker)
+    quarter = quarter.strip()
+
     headers = {'User-Agent': "email@address.com"}
 
     # Retrieve filing metadata from SEC

@@ -1,4 +1,5 @@
 import pandas as pd
+import requests
 
 # utils function 
 
@@ -20,6 +21,28 @@ def find_accessionNumber_targer(fi_df_primaryDocument,sec_data,year_t,quarters_l
     else:
         fi_df = pd.DataFrame()
         return(fi_df)
+    
+## depends on main    
+def find_company_cik(tic):
+    """
+    Find the company CIK number based on the ticker symbol.
+    """
+    import requests
+
+    ticker = tic.upper()
+    headers = {
+        "User-Agent": "Your Name (your.email@example.com)"
+    }
+    url = "https://www.sec.gov/files/company_tickers.json"
+    response = requests.get(url, headers=headers)
+    sec_data = response.json()
+
+    cik_str = None
+    for item in sec_data.values():
+        if item['ticker'].upper() == ticker:
+            cik_str = str(item['cik_str']).zfill(10)
+            break
+    return cik_str
 
 ## depands on "get_financial_statement"
 def check_with_statement(sec_data,year):
