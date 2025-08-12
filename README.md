@@ -77,7 +77,7 @@ Each financial metric contains:
 | GrossMargin (%)      | Gross profit margin            | > 0*                          |
 | NetProfitMargin (%)  | Net profit margin              | > 10%                         |
 | OperatingMargin (%)  | Operating profit margin        | > 15%                         |
-| EPSGrowth (%)        | Earnings per share growth      | (No specific rule)             |
+| EPSGrowth (%)        | Earnings per share growth      | > 10%             |
 | FCF (Free Cash Flow) | Free cash flow                 | > 0                           |
 | ROE (%)              | Return on equity               | > 15%                         |
 | ROA (%)              | Return on assets               | > 7%                          |
