@@ -27,11 +27,13 @@ https://www.sec.gov/search-filings/edgar-application-programming-interfaces
 /Dockerfile                      # Docker build instructions  
 
 ---
-
-## Run the Docker Container
-
+## build the Docker image
 ```bash
-docker run -d -p 8000:8000 fincal_statement_api
+docker build -t fincal_statement_api .
+```
+## Run the Docker Container
+```bash
+docker run -p 8000:8000 --name fincal_statement_api fincal_statement_api
 ```
 
 ### Access the API Documentation
